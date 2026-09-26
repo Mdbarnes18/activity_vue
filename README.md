@@ -1,25 +1,17 @@
-# .
 
-This template should help get you started developing with Vue 3 in Vite.
+# Vue Activity — Michael Barnes
 
-## Recommended IDE Setup
+This project was created by Michael Barnes for the Web, Programming, and Database Foundations course at Cape Fear Community College.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+The project uses Vue 3 and Vite to create and deploy a web application.
 
-## Recommended Browser Setup
+## Live Website
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+[View the live Vue application](https://mdbarnes18.github.io/activity_vue/)
 
 ## Project Setup
+
+Install the project dependencies:
 
 ```sh
 npm install
@@ -27,12 +19,27 @@ npm install
 
 ### Compile and Hot-Reload for Development
 
+Run the development server:
+
 ```sh
 npm run dev
 ```
 
 ### Compile and Minify for Production
 
+Build the application for production:
+
 ```sh
 npm run build
 ```
+
+## Technologies Used
+
+- Vue 3
+- Vite
+- JavaScript
+- GitHub Pages
+
+## Author
+
+Michael Barnes
