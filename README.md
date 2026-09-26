@@ -1,7 +1,7 @@
 
 # Vue Activity — Michael Barnes
 
-This project was created by Michael Barnes for the Web, Programming, and Database Foundations course at Cape Fear Community College.
+This project was created by Michael Barnes for CTI 110 (I01) IT Foundations (2026FA) at Cape Fear Community College.
 
 The project uses Vue 3 and Vite to create and deploy a web application.
 
